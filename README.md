@@ -22,6 +22,7 @@ Con base en estos hallazgos, se proponen estrategias de retención que pueden ma
 📂 Estructura del proyecto
 	•	TELECOMX.json → Base de datos de clientes. 
     https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/refs/heads/main/TelecomX_Data.json
+
 	•	TelecomX_LATAM_Challenge2.ipynb → Notebook principal con el análisis paso a paso.
 
 ⸻
