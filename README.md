@@ -7,6 +7,7 @@ Aquí encontrarás un análisis completo sobre la evasión de clientes (Churn) e
 🎯 Objetivo
 
 El propósito de este proyecto es entender por qué los clientes se van y qué factores influyen en su decisión de cancelar el servicio.
+
 Con base en estos hallazgos, se proponen estrategias de retención que pueden marcar una diferencia real en la experiencia de los usuarios.
 
 ⸻
@@ -20,10 +21,7 @@ Con base en estos hallazgos, se proponen estrategias de retención que pueden ma
 ⸻
 
 📂 Estructura del proyecto
-	
-	•	TELECOMX.json → Base de datos de clientes. 
-    https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/refs/heads/main/TelecomX_Data.json
-
+	•	TELECOMX.json → Base de datos de clientes.
 	•	TelecomX_LATAM_Challenge2.ipynb → Notebook principal con el análisis paso a paso.
 
 ⸻
@@ -65,4 +63,4 @@ Con base en estos hallazgos, se proponen estrategias de retención que pueden ma
 
 ✨ Autor
 
-Proyecto desarrollado por Emilio Serratos 
+Proyecto desarrollado por Emilio Serratos
